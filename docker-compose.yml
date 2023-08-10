@@ -1,0 +1,9 @@
+version: '3.9'
+
+services:
+  php:
+    build: .
+    container_name: rta-api-service-client-php
+    working_dir: /var/www/
+    volumes:
+      - ./:/var/www
