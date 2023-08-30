@@ -2,9 +2,9 @@
 
 namespace Napopravku\RtaApiClient\DTOs\Slot\Result;
 
-use Napopravku\RtaApiClient\DTOs\Common\ShortDTO;
+use Napopravku\RtaApiClient\DTOs\Common\AbstractDTO;
 
-class SlotResultDTO extends ShortDTO
+class SlotResultDTO extends AbstractDTO
 {
     public string $from;
 
