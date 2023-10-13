@@ -16,6 +16,10 @@ class AppointmentResultDTO extends AbstractDTO
 
     public ?string $misServiceId;
 
+    public string $startTime;
+
+    public string $endTime;
+
     public ?string $patientSurname;
 
     public ?string $patientFirstname;
