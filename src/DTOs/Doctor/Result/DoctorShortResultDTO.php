@@ -1,6 +1,6 @@
 <?php
 
-namespace Napopravku\RtaApiClient\DTOs\Doctor\Request;
+namespace Napopravku\RtaApiClient\DTOs\Doctor\Result;
 
 use Napopravku\RtaApiClient\DTOs\Common\ShortDTO;
 

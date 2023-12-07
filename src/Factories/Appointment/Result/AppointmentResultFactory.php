@@ -4,7 +4,7 @@ namespace Napopravku\RtaApiClient\Factories\Appointment\Result;
 
 use Napopravku\RtaApiClient\Factories\Common\AbstractFactory;
 use Napopravku\RtaApiClient\DTOs\Clinic\Result\ClinicShortResultDTO;
-use Napopravku\RtaApiClient\DTOs\Doctor\Request\DoctorShortResultDTO;
+use Napopravku\RtaApiClient\DTOs\Doctor\Result\DoctorShortResultDTO;
 use Napopravku\RtaApiClient\DTOs\Appointment\Result\AppointmentResultDTO;
 
 class AppointmentResultFactory extends AbstractFactory

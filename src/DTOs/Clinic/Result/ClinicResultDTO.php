@@ -4,7 +4,7 @@ namespace Napopravku\RtaApiClient\DTOs\Clinic\Result;
 
 use Illuminate\Support\Collection;
 use Napopravku\RtaApiClient\DTOs\Common\ShortDTO;
-use Napopravku\RtaApiClient\DTOs\Doctor\Request\DoctorShortResultDTO;
+use Napopravku\RtaApiClient\DTOs\Doctor\Result\DoctorShortResultDTO;
 
 class ClinicResultDTO extends ShortDTO
 {

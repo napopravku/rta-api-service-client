@@ -4,7 +4,7 @@ namespace Napopravku\RtaApiClient\DTOs\Appointment\Result;
 
 use Napopravku\RtaApiClient\DTOs\Common\AbstractDTO;
 use Napopravku\RtaApiClient\DTOs\Clinic\Result\ClinicShortResultDTO;
-use Napopravku\RtaApiClient\DTOs\Doctor\Request\DoctorShortResultDTO;
+use Napopravku\RtaApiClient\DTOs\Doctor\Result\DoctorShortResultDTO;
 
 class AppointmentResultDTO extends AbstractDTO
 {

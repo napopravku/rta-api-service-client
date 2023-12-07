@@ -5,7 +5,7 @@ namespace Napopravku\RtaApiClient\Factories\Clinic\Result;
 use Illuminate\Support\Collection;
 use Napopravku\RtaApiClient\Factories\Common\AbstractFactory;
 use Napopravku\RtaApiClient\DTOs\Clinic\Result\ClinicResultDTO;
-use Napopravku\RtaApiClient\DTOs\Doctor\Request\DoctorShortResultDTO;
+use Napopravku\RtaApiClient\DTOs\Doctor\Result\DoctorShortResultDTO;
 
 class ClinicResultFactory extends AbstractFactory
 {
