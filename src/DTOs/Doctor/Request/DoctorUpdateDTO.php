@@ -12,6 +12,6 @@ class DoctorUpdateDTO extends AbstractDTO
 
     public ?string $comment;
 
-    /** @var int[] */
+    /** @var array<int> */
     public array $misClinicIds;
 }
