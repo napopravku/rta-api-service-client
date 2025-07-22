@@ -17,6 +17,8 @@ class AppointmentListDTO extends AbstractDTO
         public ?string $to = null,
         public ?bool $isReceived = null,
         public ?bool $isCancelled = null,
+        public ?string $cancelledFrom = null,
+        public ?string $cancelledTo = null,
     ) {
     }
 }
