@@ -45,4 +45,6 @@ class AppointmentResultDTO extends AbstractDTO
     public ?string $createdAt;
 
     public ?string $updatedAt;
+
+    public ?string $cancelledAt;
 }
